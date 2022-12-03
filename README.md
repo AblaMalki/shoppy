@@ -3,7 +3,7 @@
 </h1>
 <br/>
 
-<img align="center" src="public/shoppy.png" />
+<img align="center" src="src/assets/shoppy.png" />
 <br/>
 <p align="center">
   Shoppy is a Modern React Admin Dashboard Application with Theming, Tables, Charts, Calendar, Kanban, and More.
